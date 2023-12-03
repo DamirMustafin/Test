@@ -4,3 +4,5 @@ if __name__ == '__main__':
     print("new line")
     print('This is Damir')
     print('!')
+    print('Hello world!! my name is Wasiliy')
+
