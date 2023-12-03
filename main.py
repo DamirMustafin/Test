@@ -1,6 +1,16 @@
 if __name__ == '__main__':
     print('Hello!')
-    print('helllllloooooooooooo rebyata!!!!')
-    print("new line")
-    print('This is Damir')
-    print('!')
+
+# git
+# init
+# add [.]
+# gitignore - все те файлы, которые гит будет игнорировать
+# vcs -> Git -> remotes -> Указать url - для синхронизации удаленного репозитория и локального
+# clone
+# commit -m '' -a -> git push - Отправка изменений на сервер
+# checkout - Изменение рабочей ветки
+# brach [-a] - просмотр веток
+# stash - отложить изменения
+# stash pop - вернуть изменения обратно
+# pull для получения изменений с удаленного сервера
+# log
